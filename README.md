@@ -1,10 +1,7 @@
 # Hi there! I'm Ali 👋
 
 ### Skills
-<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/express/#ffffff" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" /><img height="32" width="32" src="https://cdn.simpleicons.org/express/#ffffff" /><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" /><img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
 
 
 - 🌱 I’m currently learning Node.js

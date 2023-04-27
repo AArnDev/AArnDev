@@ -4,19 +4,16 @@ I’m a Back End Developer experienced in building rest APIs and SSR websites. I
 
 ## Skills:
 <p align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/#F7DF1E" />
+
+  <img height="32" width="32" src="https://cdn.simpleicons.org/go/#00ADD8" />
   
-  <img height="32" width="32" src="https://cdn.simpleicons.org/express/#ffffff" />
-  
+  <img height="32" width="32" src="https://cdn.simpleicons.org/postgresql/#4169E1" />
+   
   <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb/#47A248" />
   
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5/#E34F26" />
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3/#1572B6" />
-  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs/#339933" />
   
 </p>
 

@@ -1,7 +1,5 @@
 # Hi there! I'm Ali 👋
 
-I’m a Back End Developer experienced in building rest APIs and SSR websites. I’m looking to expand my portfolio and collaborate on something new.
-
 ## Skills:
 <p align="left">
 
